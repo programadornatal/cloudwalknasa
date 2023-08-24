@@ -1,4 +1,4 @@
-import 'package:cloudwalknasa/src/feactures/listofimages_page.dart';
+import 'package:cloudwalknasa/src/views/listofimages_page.dart';
 import 'package:flutter/material.dart';
 
 class Imageoftheday extends StatelessWidget {
